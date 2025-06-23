@@ -28,7 +28,7 @@ A Ruby on Rails API for calculating shopping cart totals with support for produc
 
 ## Technology Stack
 
-- **Ruby**: 3.1.3
+- **Ruby**: 3.4.1
 - **Rails**: 7.2.2
 - **Database**: PostgreSQL
 - **Testing**: RSpec, FactoryBot
@@ -37,7 +37,7 @@ A Ruby on Rails API for calculating shopping cart totals with support for produc
 
 ## Prerequisites
 
-- Ruby 3.1.3
+- Ruby 3.4.1
 - PostgreSQL
 - Docker (optional)
 
