@@ -41,7 +41,7 @@ group :development, :test do
 
   gem 'rspec-rails', '~> 6.0'
   gem 'factory_bot_rails', '~> 6.4'
-  gem 'shoulda-matchers', '~> 5.0'
+  gem 'shoulda-matchers', '~> 6.5'
 end
 
 gem 'money-rails', '~> 1.15'
