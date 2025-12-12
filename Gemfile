@@ -44,7 +44,7 @@ group :development, :test do
   gem 'shoulda-matchers', '~> 6.5'
 end
 
-gem 'money-rails', '~> 1.15'
+gem 'money-rails', '~> 2.0'
 gem 'dry-struct', '~> 1.6'
 
 group :development do
